@@ -1,6 +1,6 @@
 # Desafio Do Amigo Secreto - Alura ONE ✨
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ribbon.png" alt="Ribbon" width="25" height="45" /> Desafio proposto afim de solidificar conhecimentos em: 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ribbon.png" alt="Ribbon" width="25" height="45" /> Desafio proposto a fim de solidificar conhecimentos em: 
 
 - Funções e Listas
 - Sintaxe e lógica em Javascript
